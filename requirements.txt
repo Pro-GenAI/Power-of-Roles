@@ -1,0 +1,9 @@
+openai
+python-dotenv
+# tabulate
+
+# for Gemini proxy
+google-generativeai
+fastapi
+uvicorn
+protobuf==3.20.*
