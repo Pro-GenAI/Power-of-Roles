@@ -10,15 +10,9 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 > [!NOTE]
-> Please star :star: the repository to show your support. <br>
+> Please star :star: the repository to show your support.
 
-<br>
-
-<!-- Workflow images -->
-<!-- **PR process**: <br>
-<img src="./files/PR_flow.jpg" alt="PR flow" width="800"> -->
-
-### Why PR:
+### Why Power of Roles:
 - Existing research does not include the experimental results of the three message types.
 - Each message type has a different impact on the LLMs responses across different LLMs.
 - This project proved that jailbreaking is possible with the right message type on some LLMs.
