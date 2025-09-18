@@ -5,12 +5,14 @@
 ## Investigating the impact of the three message types on LLMs responses
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-yellow.svg?style=for-the-badge)](./LICENSE.md)
-[![Journal](https://img.shields.io/badge/Journal%20Article-Link-darkgreen?style=for-the-badge)](https://zenodo.org/records/13919681)
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.13919681-blue?style=for-the-badge)](https://doi.org/10.5281/zenodo.13919681)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 > [!NOTE]
 > Please star :star: the repository to show your support.
+
+### Published paper:
+[![Journal](https://img.shields.io/badge/Journal%20Article-Link-darkgreen?style=for-the-badge)](https://zenodo.org/records/13919681)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.13919681-blue?style=for-the-badge)](https://doi.org/10.5281/zenodo.13919681)
 
 ### Why Power of Roles:
 - Existing research does not include the experimental results of the three message types.
